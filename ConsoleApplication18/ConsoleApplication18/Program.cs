@@ -10,7 +10,7 @@ namespace ConsoleApplication18
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Dinka Tarakčije i broj mog indeksa je 'broj indeksa'!");
+            Console.WriteLine("Pozdrav iz aplikacije od Dinka Tarakčije!");
         }
     }
 }
